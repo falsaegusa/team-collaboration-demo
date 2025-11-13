@@ -1,0 +1,1 @@
+print("Hi, ako si Josiah Asegurado")
